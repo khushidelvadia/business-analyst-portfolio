@@ -21,7 +21,7 @@ I am learning and uploading projects regularly.
 
 Tools Used: Excel, Power BI
 
-Objective:
+Objective:<br>
 Analyze sales data to understand regional and product performance.
 
 Key Work:
@@ -29,5 +29,5 @@ Key Work:
 - Built bar and column charts
 - Designed Power BI dashboard with KPIs
 
-Outcome:
+Outcome:<br>
 Identified top-performing regions and products.
