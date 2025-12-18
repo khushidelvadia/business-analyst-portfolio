@@ -19,15 +19,15 @@ I am learning and uploading projects regularly.
 
 ## Project 1: Sales Performance Analysis
 
-Tools Used: Excel, Power BI
+Tools Used :  Excel, Power BI
 
 Objective:<br>
 Analyze sales data to understand regional and product performance.
 
-Key Work:
-- Created pivot tables in Excel
-- Built bar and column charts
-- Designed Power BI dashboard with KPIs
+Key Work: 
+ - Created pivot tables in Excel
+ - Built bar and column charts
+ - Designed Power BI dashboard with KPIs
 
 Outcome:<br>
 Identified top-performing regions and products.
